@@ -1,4 +1,4 @@
-require 'active_record/connection_adapters/postgis_adapter'
+# require 'active_record/connection_adapters/postgis_adapter'
 
 module ActiveRecordNearestNeighbor
 
